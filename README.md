@@ -1,5 +1,5 @@
 ## Project
-! [required](Screenshot_18-1-2025_15122_www.upwork.com.jpeg)
+![required](Screenshot_18-1-2025_15122_www.upwork.com.jpeg)
 
 Based on the uploaded script, here's a comprehensive README for the project:
 
